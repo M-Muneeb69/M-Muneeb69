@@ -2,7 +2,7 @@
 <p>What I do? I take up coding projects as a freelancer and contract worker.</p>
 <p>What I'am learning? I am currently a CS student from LGU</p>
 <p>What I'am interested in? I am currently interested to take up Django based web projects.</p>
-<p>How to reach me? <a href:"mailto:fa17-bscs-439@lgu.edu.pk">Email</a></p>
+<p>How to reach me? <a href="mailto:fa17-bscs-439@lgu.edu.pk">Email</a></p>
 
 
 <!---
